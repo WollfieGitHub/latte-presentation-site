@@ -1,0 +1,15 @@
+﻿{
+  "short_name": "Latte",
+  "name": "Latte is a student-designed study tool that helps with organizing tasks, managing group projects, and meeting deadlines. Its aim is to enhance productivity and academic success.",
+  "icons": [
+    {
+      "src": "latte-logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
